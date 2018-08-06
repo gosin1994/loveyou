@@ -52,9 +52,7 @@ public class MsgAction extends ActionSupport implements ModelDriven<Msg> {
 	 */
 	
 	public String getMsgs() {
-		System.out.println("进入了MsgAction的getMsgs方法。。。");
 		List<Msg> list = msgService.findAllMsg();
-		System.out.println(list.toString());
 		ActionContext.getContext().getSession().put("list", list);
 		return "content";
 	}

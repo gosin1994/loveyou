@@ -39,9 +39,9 @@
         <span class="say"> </span><br/>
         <span class="say">时间过得挺快的，一转眼我们都已经在一起这么久了。</span><br/><br/>
         <span class="say"></span><br/>
-        <span class="say">2018年2月1号是我们的纪念日</span><br/><br/>
+        <span class="say">2018年2月1号我们在一起了</span><br/><br/>
         <span class="say"></span><br/>
-        <span class="say">2018年2月8号我从贵阳飞到西安，你在后卫寨等我<img width="22.4px" height="30px" src="imgs/lh.jpg" /> </span><br><br/>
+        <span class="say">2018年2月8号我从贵阳飞到西安，你在后卫寨等我</span><br><br/>
         <span class="say"></span><br/>
         <span class="say">2018年3月20号你从西安飞到深圳，我在机场等你，相距1700多公里的我们又见面了，见面后我们拥抱接吻。这一幕幕我都刻在脑海里，现在想起来都很甜。</span><br><br/>
         <span class="say"></span><br/>
@@ -49,13 +49,13 @@
         <span class="say"></span><br/>
         <span class="say">2018年5月27号我去咸阳找你了，我们去了袁家村，还去了你们学校</span><br><br/>
         <span class="say"></span><br/>
-        <span class="say">2018年7月5号我去你家了，见了你的家人，我的准岳父岳母。7号我们来</span><br><br/>
+        <span class="say">2018年7月5号我去你家见了你的家人，我的准岳父岳母。7号我们一起来了深圳</span><br><br/>
         <span class="say"></span><br/>
-        <span class="say">虽然我们所在的城市距离比较遥远，但是我们的心是在一起的，我相信等不久我们生活在一起后我们会更加珍惜彼此，更加珍惜这份来之不易的爱情。</span><br><br/>
+        <span class="say">现在，我们终于结束了异地恋，终于能天天在一起了。我们能在一起真的挺不容易的，所以我们一定要珍惜彼此，相互信任、相互包容，过好我们的每一天。</span><br><br/>
         <span class="say"></span><br/>
         <span class="say"><a style="color: deeppink;font-size: 20px;" href="${pageContext.request.contextPath }/msg_getMsgs"  target="_blank" >老婆，我们要一辈子在一起，永远不分开。</a></a></span><br><br/>
         <span class="say"> </span><br/>
-        <span class="say"><span class="space"></span> -- 爱你的老公</span> </font>
+        <span class="say"><span class="space"></span></span> </font>
         </p>
       </div>
     </div>
